@@ -23,12 +23,13 @@ Hi, I’m @sergioVela
 
 🤝 I’m looking to collaborate on open-source projects related to Angular, Spring Boot, and cloud technologies.
 
-📬 How to reach me: Feel free to connect with me via LinkedIn or email at sergio.velasco@sofipa.org.mx
+📬 How to reach me: Feel free to connect with me via LinkedIn or email at velacruz.852@gmail.com
+    **more information**
+* Email: sergio.velasco@sofipa.org.mx
+* LinkedIn: https://www.linkedin.com/in/sergio-vela/
 
 👤 Pronouns: he/him, engineer.
 
 ⚡ Fun fact: I love playing soccer and enjoy listening to music.
 
-**Contact:**
-* Email: velacruz.852@gmail.com
-* LinkedIn: https://www.linkedin.com/in/sergio-vela/
+
