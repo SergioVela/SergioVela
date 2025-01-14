@@ -19,7 +19,7 @@ Hi, I’m @sergioVela
 🌱 I’m interested in web development, AI, and building efficient and scalable software solutions.
     
 📚 I’m currently learning Docker and Kubernetes to enhance my DevOps skills.
-    My expertise lies in developing native Android apps. I leverage Angular for the frontend, TypeScript for efficient development, Spring Boot for backend services, and Java for overall application logic.
+   My expertise lies in developing native Android apps. I leverage Angular for the frontend, TypeScript for efficient development, Spring Boot for backend services, and Java for overall application logic. I'm proficient in implementing continuous integration and delivery (CI/CD) pipelines using AWS CodeBuild, ensuring efficient and reliable software releases.
 
 🤝 I’m looking to collaborate on open-source projects related to Angular, Spring Boot, and cloud technologies.
 
